@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Film List</string>
+    <string name="film1">X</string>
+    <string name="film2">Death on the Nile</string>
+    <string name="film3">Everything Everywhere All at Once</string>
+    <string name="film4">The Gray Man</string>
+    <string name="film5">The Northman</string>
+    <string name="film6">Schindlers List</string>
+    <string name="film7">The Lord of the Rings: The Return of the King</string>
+    <string name="film1_desc">In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.</string>
+    <string name="film2_desc">While on vacation on the Nile, Hercule Poirot must investigate the murder of a young heiress.</string>
+    <string name="film3_desc">An aging Chinese immigrant is swept up in an insane adventure, in which she alone can save the world by exploring other universes connecting with the lives she could have led.</string>
+    <string name="film4_desc">When the CIAs most skilled operative-whose true identity is known to none-accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.</string>
+    <string name="film5_desc">A young Viking prince is on a quest to avenge his fathers murder.</string>
+    <string name="film6_desc">In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.</string>
+    <string name="film7_desc">Gandalf and Aragorn lead the World of Men against Saurons army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.</string>
+</resources>
